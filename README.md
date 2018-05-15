@@ -1,8 +1,11 @@
-# dataScience
-Python code for analyzing datasets.
+# Machine Learning and Data Science Scritps
 
-These python scripts uses libraries namely Numpy, Pandas and Matplotlib to explore datasets from www.kaggle.com
+Scripts written using Python for analyzing datasets and implementing ML / AI algorithms.
 
-Current datasets being explored : 
+For Machine Learning, Tensorflow and Keras are used for implementing different algorithms.
+For Data Analysis, these python scripts uses libraries namely Numpy, Pandas and Matplotlib to explore various datasets available.
 
-https://www.kaggle.com/bazuka/census2001
+Data set used: 
+
+Sex-ratio.py : https://www.kaggle.com/bazuka/census2001
+CNN.py: MNIST dataset preloaded in Keras / Tensorflow
