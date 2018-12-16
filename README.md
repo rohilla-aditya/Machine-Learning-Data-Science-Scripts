@@ -12,6 +12,6 @@ For Data Analysis, these python scripts uses libraries namely Numpy, Pandas and 
 
 Data set used: 
 
-Sex-ratio.py : Census (https://www.kaggle.com/bazuka/census2001)
-CNN.py: MNIST dataset preloaded in Keras / Tensorflow
-gradientDescent.py: Fashion_MNIST dataset
+1) Sex-ratio.py : Census (https://www.kaggle.com/bazuka/census2001)
+2) CNN.py: MNIST dataset preloaded in Keras / Tensorflow
+3) gradientDescent.py: Fashion_MNIST dataset
