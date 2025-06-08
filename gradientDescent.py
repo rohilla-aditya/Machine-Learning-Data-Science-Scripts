@@ -121,7 +121,8 @@ def softmax_cross_entropy_loss_der(Y, A):
     labels[np.arange(m), Y.astype(int)] = 1
     labels = labels.T #(n,m) (10, 6000)
 
-    m = np.shape(Y)[0]
+    # number of training examples
+    m = A.shape[1]
     dZ = A - labels
     dZ = dZ / m
     ###
